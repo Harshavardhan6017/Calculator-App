@@ -9,7 +9,7 @@ A simple, responsive calculator application built as part of my MERN stack devel
 
 ## Screenshots
 
-![Calculator App Screenshot](path-to-screenshot)
+![Calculator App Screenshot](https://github.com/Harshavardhan6017/Calculator-App/blob/main/Calculator%20App.png)
 
 ## Technologies Used
 
